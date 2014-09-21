@@ -1,12 +1,12 @@
 ---
-title: "README2"
+title: "README"
 author: "Monica"
 date: "Sunday, September 21, 2014"
 output: html_document
 ---
 ###Contents
 This repository contains the following files:
-README2.md --- an explanation of the contents of the repository and a general overview of data used and how it was processed
+README.md --- an explanation of the contents of the repository and a general overview of data used and how it was processed
 CodeBook.md --- a description of how the data was processed
 run_analysis.r --- an R script to process the data
 
